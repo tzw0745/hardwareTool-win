@@ -37,3 +37,7 @@
     [02]会自动选择HDTunePro_win7.exe 和 HDTunePro_win10.exe
     
     ```
+
+# 其它
+1. 程序初始化流程
+    ![](http://p1.bqimg.com/567571/75e1955a325daab9.png)
