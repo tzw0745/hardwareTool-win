@@ -1,0 +1,9 @@
+d:\documents\visual studio 2010\Projects\PC硬件工具箱\PC硬件工具箱\bin\Debug\PC硬件工具箱.exe
+d:\documents\visual studio 2010\Projects\PC硬件工具箱\PC硬件工具箱\bin\Debug\PC硬件工具箱.pdb
+d:\documents\visual studio 2010\Projects\PC硬件工具箱\PC硬件工具箱\obj\x86\Debug\PC硬件工具箱.MainForm.resources
+d:\documents\visual studio 2010\Projects\PC硬件工具箱\PC硬件工具箱\obj\x86\Debug\PC硬件工具箱.Properties.Resources.resources
+d:\documents\visual studio 2010\Projects\PC硬件工具箱\PC硬件工具箱\obj\x86\Debug\PC硬件工具箱.csproj.GenerateResource.Cache
+d:\documents\visual studio 2010\Projects\PC硬件工具箱\PC硬件工具箱\obj\x86\Debug\PC硬件工具箱.exe
+d:\documents\visual studio 2010\Projects\PC硬件工具箱\PC硬件工具箱\obj\x86\Debug\PC硬件工具箱.pdb
+D:\Documents\Visual Studio 2010\Projects\PC硬件工具箱\PC硬件工具箱\obj\x86\Debug\PC硬件工具箱.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2010\Projects\PC硬件工具箱\PC硬件工具箱\bin\Debug\PC硬件工具箱.exe.config
