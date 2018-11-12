@@ -1,31 +1,31 @@
-# ÉùÃ÷
-1. ±¾Èí¼þÓÉvs2010¿ª·¢
-2. ÔËÐÐ±¾Èí¼þÐèÒª.net frameworks4.0»·¾³£¬win7²»×Ô´ø
+# å£°æ˜Ž
+1. æœ¬è½¯ä»¶ç”±vs2010å¼€å‘
+2. è¿è¡Œæœ¬è½¯ä»¶éœ€è¦.net frameworks4.0çŽ¯å¢ƒï¼Œwin7ä¸è‡ªå¸¦
 
-# ÌØÐÔ
-1. Ò»¸öÖ÷½çÃæ£¬4¸ö·Ö×é£¬Ã¿¸ö·Ö×é5¸ö°´Å¥¡£Ö÷½çÃæ±êÌâ¡¢·Ö×éÎÄ±¾À´×ÔÅäÖÃÎÄ¼þ¡£
-2. ×Ô¶¯´ÓÅäÖÃÎÄ¼þ¶ÁpathºÍtext£¬Í¨¹ýpathÌáÈ¡³ÌÐòÍ¼±êÏÔÊ¾ÔÚ°´Å¥ÖÐ£¬textÏÔÊ¾ÔÚ°´Å¥ÏÂ¡£
-    ![](http://p1.bqimg.com/567571/bc006565de2e26e5.png)
-3. ¶ÁÈ¡ÅäÖÃÎÄ¼þ³öÏÖ´íÎóÊ±ÌáÊ¾»Ö¸´µ½Ä¬ÈÏÅäÖÃ¡£
-4. ÊµÊ±ÇÐ»»µ½pathµÄ¹¤×÷Ä¿Â¼¡£
-5. ÅäÖÃÎÄ¼þ(hardwareTool.ini)ËµÃ÷£º
+# ç‰¹æ€§
+1. ä¸€ä¸ªä¸»ç•Œé¢ï¼Œ4ä¸ªåˆ†ç»„ï¼Œæ¯ä¸ªåˆ†ç»„5ä¸ªæŒ‰é’®ã€‚ä¸»ç•Œé¢æ ‡é¢˜ã€åˆ†ç»„æ–‡æœ¬æ¥è‡ªé…ç½®æ–‡ä»¶ã€‚
+2. è‡ªåŠ¨ä»Žé…ç½®æ–‡ä»¶è¯»pathå’Œtextï¼Œé€šè¿‡pathæå–ç¨‹åºå›¾æ ‡æ˜¾ç¤ºåœ¨æŒ‰é’®ä¸­ï¼Œtextæ˜¾ç¤ºåœ¨æŒ‰é’®ä¸‹ã€‚
+    ![](http://pictures.tzw0745.cn/18-11-12/7900634.jpg)
+3. è¯»å–é…ç½®æ–‡ä»¶å‡ºçŽ°é”™è¯¯æ—¶æç¤ºæ¢å¤åˆ°é»˜è®¤é…ç½®ã€‚
+4. å®žæ—¶åˆ‡æ¢åˆ°pathçš„å·¥ä½œç›®å½•ã€‚
+5. é…ç½®æ–‡ä»¶(hardwareTool.ini)è¯´æ˜Žï¼š
     ```config
     [main]
     title=abc
-    : ½«Ö÷³ÌÐòµÄ±êÌâÉèÎªabc
+    : å°†ä¸»ç¨‹åºçš„æ ‡é¢˜è®¾ä¸ºabc
 
     [group0]
     text=abc
-    : ½«µÚÒ»¸ö·Ö×éµÄÎÄ±¾ÉèÎªabc
-    : ¹²ËÄ¸ö·Ö×é£¬group0--group3
+    : å°†ç¬¬ä¸€ä¸ªåˆ†ç»„çš„æ–‡æœ¬è®¾ä¸ºabc
+    : å…±å››ä¸ªåˆ†ç»„ï¼Œgroup0--group3
 
     [00]
     path=d:\abc.exe
     text=abc
-    : ½«µÚÒ»ÐÐµÚÒ»¸ö°´Å¥Ëù´ú±íµÄ³ÌÐòÂ·¾¶ÉèÎªd:\abc.exe£¬ÎÄ±¾ÉèÎªabc
-    : ¹²20¸ö°´Å¥£¬00£¬01£¬02£¬03£¬04ÎªµÚÒ»·Ö×é£¬10-14ÎªµÚ¶þ·Ö×é£¬20-24ÎªµÚÈý·Ö×é£¬30-34ÎªµÚËÄ·Ö×é
+    : å°†ç¬¬ä¸€è¡Œç¬¬ä¸€ä¸ªæŒ‰é’®æ‰€ä»£è¡¨çš„ç¨‹åºè·¯å¾„è®¾ä¸ºd:\abc.exeï¼Œæ–‡æœ¬è®¾ä¸ºabc
+    : å…±20ä¸ªæŒ‰é’®ï¼Œ00ï¼Œ01ï¼Œ02ï¼Œ03ï¼Œ04ä¸ºç¬¬ä¸€åˆ†ç»„ï¼Œ10-14ä¸ºç¬¬äºŒåˆ†ç»„ï¼Œ20-24ä¸ºç¬¬ä¸‰åˆ†ç»„ï¼Œ30-34ä¸ºç¬¬å››åˆ†ç»„
     ```
-6. ÔÚ[00]--[34]µÄpath¿ÉÒÔ´øÓÐ"win{0:D}"»òÕß"{0:D}"£¨¶þÑ¡Ò»£©£¬Èç¹ûpath´øÓÐ"win{0:D}"£¬ÄÇÃ´³ÌÐò»á×Ô¶¯Ñ¡ÔñÅÐ¶Ï²Ù×÷ÏµÍ³°æ±¾£¬·Ö±ðÖ´ÐÐ"win7"»ò"win10"£»Èç¹ûpathÖ»´øÓÐ"{0:D}"£¬ÄÇÃ´³ÌÐò»á×Ô¶¯ÅÐ¶Ï²Ù×÷ÏµÍ³Î»Êý£¬·Ö±ðÖ´ÐÐ"64"ºÍ"32"¡£
+6. åœ¨[00]--[34]çš„pathå¯ä»¥å¸¦æœ‰"win{0:D}"æˆ–è€…"{0:D}"ï¼ˆäºŒé€‰ä¸€ï¼‰ï¼Œå¦‚æžœpathå¸¦æœ‰"win{0:D}"ï¼Œé‚£ä¹ˆç¨‹åºä¼šè‡ªåŠ¨é€‰æ‹©åˆ¤æ–­æ“ä½œç³»ç»Ÿç‰ˆæœ¬ï¼Œåˆ†åˆ«æ‰§è¡Œ"win7"æˆ–"win10"ï¼›å¦‚æžœpathåªå¸¦æœ‰"{0:D}"ï¼Œé‚£ä¹ˆç¨‹åºä¼šè‡ªåŠ¨åˆ¤æ–­æ“ä½œç³»ç»Ÿä½æ•°ï¼Œåˆ†åˆ«æ‰§è¡Œ"64"å’Œ"32"ã€‚
     ```config
     [00]
     path=hardwareTool\cpuz\cpuz_x{0:D}.exe
@@ -33,11 +33,7 @@
     [02]
     path=hardwareTool\HDTune\HDTunePro_win{0:D}.exe
     text=HDTune
-    [00]»á×Ô¶¯Ñ¡Ôñcpuz_x32.exe ºÍ cpuz_x64.exe
-    [02]»á×Ô¶¯Ñ¡ÔñHDTunePro_win7.exe ºÍ HDTunePro_win10.exe
+    [00]ä¼šè‡ªåŠ¨é€‰æ‹©cpuz_x32.exe å’Œ cpuz_x64.exe
+    [02]ä¼šè‡ªåŠ¨é€‰æ‹©HDTunePro_win7.exe å’Œ HDTunePro_win10.exe
     
     ```
-
-# ÆäËü
-1. ³ÌÐò³õÊ¼»¯Á÷³Ì
-    ![](http://p1.bqimg.com/567571/75e1955a325daab9.png)
